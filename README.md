@@ -4,10 +4,9 @@
 
 ### :man_technologist: About Me :
 - 👋 Hi, I’m @andrewthewave
-- 👀 I’m a beginner web-developer, interested in all kinds of related technologies, both front-end and back-end
-- 🌱 I’m currently intensively learning PHP, JavaScript, HTML, CSS
-- 💞️ I’m eagerly looking to work on real development projects 
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrey.gettun@gmail.com)
+- 👀 I’m a web-developer, interested in all kinds of related technologies, both front-end and back-end
+- 🌱 Currently studying PHP, JavaScript, Go 
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breakingwave7@gmail.com)
 
 
 ### :hammer_and_wrench: Technologies I'm currently working with :
